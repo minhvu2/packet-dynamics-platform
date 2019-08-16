@@ -1,0 +1,11 @@
+build-dir
+build
+testpy-ouput
+doc/html
+doc/latex
+*.pcap
+doc/doxygen.log
+doc/doxygen.warnings.log
+doc/manual/source-temp
+doc/models/source-temp
+bindings/python/pybindgen/
